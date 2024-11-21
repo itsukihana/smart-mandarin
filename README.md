@@ -23,7 +23,7 @@ Thank you, Freepik, for providing high-quality design resources!
 ---
 
 ## Privacy Policy
-This app respects your privacy and does not collect or store any personal data. For more details, refer to our [Privacy Policy](privacy policy.md).
+This app respects your privacy and does not collect or store any personal data. For more details, refer to our [Privacy Policy](privacy policy.md) 
 
 ---
 
